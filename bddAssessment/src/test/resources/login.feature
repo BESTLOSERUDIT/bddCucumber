@@ -12,7 +12,7 @@ Then the error message is displayed
 Examples:
 
 |username | Password|
-|udit     | 1234    |
+|uditt     | 1234    |
 
 
 Scenario Outline: Valid Login
