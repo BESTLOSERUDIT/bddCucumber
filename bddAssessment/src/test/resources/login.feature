@@ -23,5 +23,5 @@ Then Online Banking Home page is displayed
 Examples:
 
 |userName | passWord|
-|jsmith   |Demo1234 |
+|jsmitht   |Demo1234 |
 
